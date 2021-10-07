@@ -16,10 +16,14 @@ namespace github_deneme
         {
             InitializeComponent();
         }
-
+        string a;
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("hello world");
+        }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("deneme 2 git hub");          
         }
     }
 }
