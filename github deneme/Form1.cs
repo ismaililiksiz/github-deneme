@@ -23,7 +23,8 @@ namespace github_deneme
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("deneme 2 git hub");          
+            MessageBox.Show("Ev denemesi");
+            int sd;
         }
     }
 }
